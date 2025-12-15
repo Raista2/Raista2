@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Raihan Mustofa 👋
 
-<!--
-**Raista2/Raista2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Undergraduate Computer Engineering Student** at **Universitas Indonesia** (Class of 2023). My passion lies at the intersection of hardware and software, with a deep focus on **Network Engineering**, **Cybersecurity**, and **Embedded Systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Organizational Experience
+
+**Head of Avionics for Racing Plane Team**
+*Tim Robotika Universitas Indonesia (Aug 2024 - Present)*
+* Developing autopilot systems for autonomous UAV flight.
+* Ensuring connectivity between avionics/electrical systems and the Ground Control Station (GCS).
+* Managing electrical systems for unmanned aerial vehicles (UAV).
+
+---
+
+### 🛠️ Technical Skills
+
+#### 🔌 Embedded Systems & Hardware
+* **Microcontrollers:** ESP32, Arduino (ATmega328P)
+* **RTOS:** FreeRTOS
+* **Hardware Design:** FPGA (VHDL)
+* **IoT Platforms:** Node-RED, Blynk
+* **Protocols:** MQTT, BLE, HTTP, I2C, SPI
+
+#### 🌐 Network Engineering & Cybersecurity
+* **Networking:** Cisco Packet Tracer, Intermediary Devices
+* **Competencies:** Routing & Switching, Wireless Essentials, Enterprise Networking & Automation (CCNA Modules)
+* **Security:** Ethical Hacking Essentials
+
+#### 💻 Programming Languages
+* **Core:** C, C++, Java, Python
+* **Scripting:** JavaScript
+
+#### 🌍 Web Development & Databases
+* **Frontend:** React.js
+* **Backend:** Node.js
+* **Databases:** SQL, NoSQL
+* **Concepts:** OOP, Data Structures
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Raihan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [Muhammad Raihan Mustofa](https://www.linkedin.com/in/raihanmustofa)
+* **Email:** raihanmustofa.11656@gmail.com
